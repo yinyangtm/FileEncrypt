@@ -11,6 +11,7 @@
     <Platforms>AnyCPU;x64</Platforms>
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
     <TargetFramework>net6.0-windows</TargetFramework>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
     <Title>FileEncrypt</Title>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
