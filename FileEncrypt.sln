@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileEncrypt", "FileEncrypt\FileEncrypt.csproj", "{EFDCC5AB-E770-493C-BC3F-6487E5668486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDCC5AB-E770-493C-BC3F-6487E5668486}.Debug|x64.ActiveCfg = Debug|x64
+		{EFDCC5AB-E770-493C-BC3F-6487E5668486}.Debug|x64.Build.0 = Debug|x64
+		{EFDCC5AB-E770-493C-BC3F-6487E5668486}.Release|x64.ActiveCfg = Release|x64
+		{EFDCC5AB-E770-493C-BC3F-6487E5668486}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA507DA-1D53-4B0A-9C0E-90DB7F022B78}
+	EndGlobalSection
+EndGlobal
