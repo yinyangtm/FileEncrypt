@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <ApplicationIcon>AppIcon.ico</ApplicationIcon>
     <Authors>Yinyang</Authors>
@@ -10,18 +9,20 @@
     <OutputType>WinExe</OutputType>
     <Platforms>AnyCPU;x64</Platforms>
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <EnableWindowsTargeting>true</EnableWindowsTargeting>
     <Title>FileEncrypt</Title>
     <UseWPF>true</UseWPF>
+    <RepositoryUrl>https://github.com/yinyangtm/FileEncrypt</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Version>1.1.0</Version>
   </PropertyGroup>
-
   <ItemGroup>
     <Content Include="AppIcon.ico" />
   </ItemGroup>
-
   <ItemGroup>
-    <PackageReference Include="Yinyang.FileEncrypt" Version="1.0.0" />
+    <PackageReference Include="Yinyang.FileEncrypt" Version="1.0.1" />
   </ItemGroup>
-
 </Project>
