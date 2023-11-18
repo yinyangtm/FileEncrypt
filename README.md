@@ -9,7 +9,7 @@ The file will be encrypted with a password.
 ## System Requirements
 
 - Windows OS
-- [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0)
+- [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/ja-jp/download/dotnet/8.0)
 
 ---
 
